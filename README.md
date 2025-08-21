@@ -4,12 +4,7 @@
 
 - **ms-swift** framework, version **3.3.0.dev0** must be installed before running this project.  
   Please refer to the [ms-swift documentation](https://github.com/modelscope/swift) for installation instructions.
-
-
-##Testing Different Methods
-
-
-To test different methods, you can find a variety of test scripts in the examples/train/grpo/ directory:
+  
 
 ## Testing Different Methods
 

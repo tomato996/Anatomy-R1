@@ -11,8 +11,13 @@
 
 To test different methods, you can find a variety of test scripts in the examples/train/grpo/ directory:
 
-'''bash
+## Testing Different Methods
+
+To test different methods, you can find a variety of test scripts in the `examples/train/grpo/` directory:
+
+```bash
 ls ms-swift-main/examples/train/grpo/
-'''
-Each script corresponds to a different experimental method.
-Note: If you want to test the GPG method, you must replace the default trainer file with the one specifically designed for GPG. Please ensure you use the correct trainer file before running GPG-related experiments.
+```
+
+Each script corresponds to a different experimental method.  
+**Note:** If you want to test the **GPG method**, you must replace the default `trainer` file with the one specifically designed for GPG. Please ensure you use the correct trainer file before running GPG-related experiments.

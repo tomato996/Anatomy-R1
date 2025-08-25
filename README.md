@@ -5,9 +5,15 @@ Anatomy-R1 proposes two novel methods—Anatomical Similarity Curriculum Learnin
 
 ## 📈 Training Curves
 
-![The reward and S(q) curves of the Qwen-2.5-VL-7B during training on the SGG-VQA dataset.](IMAGE/method1.jpg)
-![Comparison of invalid gradient ratios between GRPO-GDQA and GRPO across training steps using Qwen-2.5-VL-7B on the SGG-VQA dataset. W](IMAGE/REWARD_curve.jpg)
+<figure>
+  <img src="IMAGE/method1.jpg" alt="The reward and S(q) curves of the Qwen-2.5-VL-7B during training on the SGG-VQA dataset." width="480"/>
+  <figcaption><b>Figure 1:</b> The reward and S(q) curves of the Qwen-2.5-VL-7B during training on the SGG-VQA dataset.</figcaption>
+</figure>
 
+<figure>
+  <img src="IMAGE/REWARD_curve.jpg" alt="Comparison of invalid gradient ratios between GRPO-GDQA and GRPO across training steps using Qwen-2.5-VL-7B on the SGG-VQA dataset." width="480"/>
+  <figcaption><b>Figure 2:</b> Comparison of invalid gradient ratios between GRPO-GDQA and GRPO across training steps using Qwen-2.5-VL-7B on the SGG-VQA dataset.</figcaption>
+</figure>
 ## Requirements
 
 - **ms-swift** framework, version **3.3.0.dev0** must be installed before running this project.  

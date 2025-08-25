@@ -14,6 +14,7 @@ Anatomy-R1 proposes two novel methods—Anatomical Similarity Curriculum Learnin
   <img src="IMAGE/REWARD_curve.jpg" alt="Comparison of invalid gradient ratios between GRPO-GDQA and GRPO across training steps using Qwen-2.5-VL-7B on the SGG-VQA dataset." width="480"/>
   <figcaption><b>Figure 2:</b> Comparison of invalid gradient ratios between GRPO-GDQA and GRPO across training steps using Qwen-2.5-VL-7B on the SGG-VQA dataset.</figcaption>
 </figure>
+
 ## Requirements
 
 - **ms-swift** framework, version **3.3.0.dev0** must be installed before running this project.  

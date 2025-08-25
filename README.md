@@ -23,9 +23,5 @@ ls ms-swift-main/examples/train/grpo/
 ```
 
 Each script corresponds to a different experimental method.  
-```
+**Note:**  If you want to test the **GPG method**, you must replace the default `trainer` file in ms-swift with the 'grpo_trainer.py'. Please ensure you use the correct trainer file before running GPG-related experiments.
 
-> **Note:**  
-> If you want to test the **GPG method**, you must replace the default `trainer` file in ms-swift with the 'grpo_trainer.py'. Please ensure you use the correct trainer file before running GPG-related experiments.
-
----

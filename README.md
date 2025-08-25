@@ -1,7 +1,9 @@
 # Anatomy-R1
 
 ## 📝 Overview
+Anatomy-R1 proposes two novel methods—Anatomical Similarity Curriculum Learning and Group Diversity Question Augmentation—that significantly enhance the medical reasoning abilities of multimodal large language models in clinical anatomical imaging tasks.
 
+## 📈 Training Curves
 
 ## Requirements
 
